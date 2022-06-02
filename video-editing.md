@@ -15,6 +15,7 @@ The edits needed for WordCamp videos are basic. Typically, you can use any video
 To get started, add the raw video to your video editing software, and trim unnecessary footage at the beginning and at the end. This will remove any extra footage that may have been recorded before or after the talk. Less often, some videos may need to be trimmed in the middle if there are any inappropriate comments or technical issues that need to be removed. You should watch the entire video when editing. To indicate a break or passage of time, [use cross-fade transitions](https://boords.com/blog/video-transition-effects)
 
 ## 3 – Add intro and outro panels
+
 All WordPress.tv video should have an intro and outro panel. Most of the time, you will create a video’s intro and outro panels from a [slide templates](https://docs.google.com/presentation/d/16yHQOfGFgH9hGbyx1DcpNITOA5Vjrm9gV3NaU9_rgpU/edit#slide=id.g1572197c6f_0_0) stored in WordPress.tv’s Google Docs account.
 
 (Some of the time, WordCamps provide customized intro and outro panels. If these exist, you will see them noted in the worksheet where you claimed the video for editing.)
