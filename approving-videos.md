@@ -9,7 +9,8 @@ The following video and text instructions cover some basic guidelines for modera
 ### Step 1 – Go to Posts→All Posts→Pending
 
 To locate videos in need of moderation, log in to [wptv.wordpress.com]([url](https://wptv.wordpress.com/wp-admin)) and go to Posts→All Posts. Videos to be moderated are in the pending queue; click on Pending to see the videos that need moderating.
-[![Step 1 – Go to Posts→All Posts→Pending](https://make.wordpress.org/community/files/2014/05/screen-shot-2014-05-20-at-3-10-07-pm.png "Step 1 – Go to Posts→All Posts→Pending")](https://make.wordpress.org/community/files/2014/05/screen-shot-2014-05-20-at-3-10-07-pm.png)
+
+![Step 1](images/screen-shot-2014-05-20-at-3-10-07-pm.png)
 
 ### Step 2 – Locate a video to moderate
 
