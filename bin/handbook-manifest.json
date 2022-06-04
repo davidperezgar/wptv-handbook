@@ -3,26 +3,26 @@
 		"title": "Introduction",
 		"slug": "index",
 		"order": 1,
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/index.md",
+		"markdown_source": "https:\/\/github.com\/wordpress\/wptv-handbook\/blob\/main\/index.md",
 		"parent": null
 	},
 	"get-involved": {
 		"title": "About WordPress.TV",
 		"slug": "about",
 		"order": 2,
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/about.md",
+		"markdown_source": "https:\/\/github.com\/wordpress\/wptv-handbook\/blob\/main\/about.md",
 		"parent": null
 	},
 	"video-submission-guidelines": {
 		"title": "Video Submission Guidelines",
 		"slug": "video-submission-guidelines",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/about-video-submission-guidelines.md",
+		"markdown_source": "https:\/\/github.com\/wordpress\/wptv-handbook\/blob\/main\/about-video-submission-guidelines.md",
 		"parent": "about"
 	},
 	"contributor-day": {
 		"title": "Contributor Day",
 		"slug": "contributor-day",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/about-contributor-day.md",
+		"markdown_source": "https:\/\/github.com\/wordpress\/wptv-handbook\/blob\/main\/about-contributor-day.md",
 		"parent": "about"
 	}
 }
